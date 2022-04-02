@@ -1,0 +1,23 @@
+{
+  "name": "js-stringify",
+  "version": "1.0.0",
+  "description": "Stringify js local functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "teststr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebmeister2077/JS-Stringify.git"
+  },
+  "keywords": [
+    "javascript",
+    "stringify"
+  ],
+  "author": "Seba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebmeister2077/JS-Stringify/issues"
+  },
+  "homepage": "https://github.com/sebmeister2077/JS-Stringify#readme"
+}
